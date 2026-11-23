@@ -1,0 +1,12 @@
+{
+  "name": "third-party-script",
+  "version": "0.1.0",
+  "description": "Day 4: a tampered third-party script, and two browser defenses (SRI, CSP) tested in a real browser. No dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "author": "xskriptx",
+  "license": "MIT"
+}
